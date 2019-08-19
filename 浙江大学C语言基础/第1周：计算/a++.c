@@ -13,5 +13,5 @@ int main()
     printf("++b = %d\n", ++b);
     printf("b = %d\n", b);
 
-    return 0;
+    return 0; 
 }

@@ -17,5 +17,5 @@ int main()
     int t = t2 - t1;
     printf("时间差是%d小时%d分钟。\n", t / 60, t % 60);
 
-    return 0;
+    return 0; 
 }
