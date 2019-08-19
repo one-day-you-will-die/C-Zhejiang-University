@@ -11,7 +11,13 @@
 * switch括号内控制表达式为整数型（int）
 * case只是起点，如果后面没有break会继续执行下一条case里的内容。
 * 当case内容执行操作相同时，可省略前置case的内容
-![](&&&SFLOCALFILEPATH&&&%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-19%20%E4%B8%8A%E5%8D%8811.52.34.png)
+```
+switch (grade){
+case 10:
+case 9:
+	printf("A\n");
+break;
+```
 ## 各文件内容
 * `time_culculate.c`为if语句初使用。
 * `change.c`为if—else。
