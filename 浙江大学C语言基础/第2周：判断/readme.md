@@ -25,4 +25,5 @@ break;
 * `compare2.c`为无大括号的if — else示例。
 * `if_else_if`为if — else — if示例。
 * `switch_case`为switch — case示例。
-*  `test.c`为习题答案。
+*  `test1.c`为习题1答案。
+*  `test2.c`为习题2答案。
